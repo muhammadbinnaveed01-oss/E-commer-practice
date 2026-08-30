@@ -8,7 +8,7 @@ const Navbar = () => {
   const {feature,dispatch} =useContext(context)
 
   const list = [
-    { name: "Home", link: "/" },
+    { name: "Home", link: "/E-commer-practice/" },
     { name: "Products", link: "/product" },
     { name: "Add to Cart", link: "/addtocart" },
   ];

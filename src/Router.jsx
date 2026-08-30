@@ -7,7 +7,7 @@ const Routerlink =()=>{
     return (
         <>
         <Routes>
-            <Route  path='/' element={<Home/>}/>
+            <Route  path='/E-commer-practice/' element={<Home/>}/>
             <Route path='/product' element={<Product/>}/>
             <Route path='/addtocart' element={<Addtocart/>}/>
         </Routes>
